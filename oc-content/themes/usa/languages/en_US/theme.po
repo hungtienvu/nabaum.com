@@ -1,0 +1,922 @@
+# English translations for usa - theme map package.
+# Copyright (C) 2013 THE usa - theme map'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the usa - theme map package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: usa - theme map 1.1.2\n"
+"Report-Msgid-Bugs-To: info@osclass.org\n"
+"POT-Creation-Date: 2013-11-06 17:07+0100\n"
+"PO-Revision-Date: 2013-11-06 17:07+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tmp/usa/./404.php:34
+msgid "Page not found"
+msgstr "Page not found"
+
+#: tmp/usa/./admin/header.php:5 tmp/usa/./inc.functions.php:6
+#: tmp/usa/./inc.functions.php:14
+msgid "Header logo"
+msgstr "Header logo"
+
+#: tmp/usa/./admin/header.php:8
+msgid "Preview"
+msgstr "Preview"
+
+#: tmp/usa/./admin/header.php:15
+msgid "Remove logo"
+msgstr "Remove logo"
+
+#: tmp/usa/./admin/header.php:23
+msgid "No logo has been uploaded yet"
+msgstr "No logo has been uploaded yet"
+
+#: tmp/usa/./admin/header.php:26
+msgid "Upload logo"
+msgstr "Upload logo"
+
+#: tmp/usa/./admin/header.php:28
+msgid "The preferred size of the logo is 600x100."
+msgstr "The preferred size of the logo is 600x100."
+
+#: tmp/usa/./admin/header.php:30
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+
+#: tmp/usa/./admin/header.php:38
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo image (png,gif,jpg)"
+
+#: tmp/usa/./admin/header.php:44
+msgid "Upload"
+msgstr "Upload"
+
+#: tmp/usa/./admin/header.php:53
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "The images folder <strong>%s</strong> is not writable on your server"
+
+#: tmp/usa/./admin/header.php:54
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr "OSClass can't upload the logo image from the administration panel."
+
+#: tmp/usa/./admin/header.php:55
+msgid "Please make the aforementioned image folder writable."
+msgstr "Please make the aforementioned image folder writable."
+
+#: tmp/usa/./admin/header.php:60
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+"To make a directory writable under UNIX execute this command from the shell:"
+
+#: tmp/usa/./admin/map_settings.php:2
+msgid "Map Options"
+msgstr "Map Options"
+
+#: tmp/usa/./admin/map_settings.php:3
+msgid "How to assign a region to your map?"
+msgstr "How to assign a region to your map?"
+
+#: tmp/usa/./admin/map_settings.php:3
+msgid ""
+"First, click in the map to select the area you want to set. Then, a dialog "
+"will appear and you only need to select the region you want to assign. "
+"Finally, once you have selected the region, click the save button."
+msgstr ""
+"First, click in the map to select the area you want to set. Then, a dialog "
+"will appear and you only need to select the region you want to assign. "
+"Finally, once you have selected the region, click the save button."
+
+#: tmp/usa/./admin/map_settings.php:11 tmp/usa/./admin/map_settings.php:28
+#: tmp/usa/./admin/map_settings.php:52 tmp/usa/./admin/map_settings.php:75
+msgid "Select a region"
+msgstr "Select a region"
+
+#: tmp/usa/./admin/map_settings.php:32
+msgid "Select a region first"
+msgstr "Select a region first"
+
+#: tmp/usa/./admin/map_settings.php:36 tmp/usa/./admin/map_settings.php:57
+#: tmp/usa/./admin/settings.php:39
+msgid "Save changes"
+msgstr "Save changes"
+
+#: tmp/usa/./admin/settings.php:12
+msgid ""
+"I would like to contribute to the development of OSClass with a donation of"
+msgstr ""
+"I would like to contribute to the development of OSClass with a donation of"
+
+#: tmp/usa/./admin/settings.php:17
+msgid "Custom"
+msgstr "Custom"
+
+#: tmp/usa/./admin/settings.php:18
+msgid "Donate"
+msgstr "Donate"
+
+#: tmp/usa/./admin/settings.php:22 tmp/usa/./inc.functions.php:7
+#: tmp/usa/./inc.functions.php:15
+msgid "Theme settings"
+msgstr "Theme settings"
+
+#: tmp/usa/./admin/settings.php:28
+msgid "Search placeholder"
+msgstr "Search placeholder"
+
+#: tmp/usa/./admin/settings.php:32
+msgid "Footer link"
+msgstr "Footer link"
+
+#: tmp/usa/./admin/settings.php:34
+msgid ""
+"I want to help OSClass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"I want to help OSClass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+
+#: tmp/usa/./admin/settings.php:35
+msgid ""
+"This website is proudly using the <a title=\"OSClass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+msgstr ""
+"This website is proudly using the <a title=\"OSClass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+
+#: tmp/usa/./alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr "You have sucessfully subscribed to the alert"
+
+#: tmp/usa/./alert-form.php:7 tmp/usa/./user-change_email.php:42
+msgid "Invalid email address"
+msgstr "Invalid email address"
+
+#: tmp/usa/./alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr "There was a problem with the alert"
+
+#: tmp/usa/./alert-form.php:39
+msgid "Subscribe to this search"
+msgstr "Subscribe to this search"
+
+#: tmp/usa/./alert-form.php:55
+msgid "Subscribe now"
+msgstr "Subscribe now"
+
+#: tmp/usa/./contact.php:35 tmp/usa/./template-contact.php:37
+msgid "Contact us"
+msgstr "Contact us"
+
+#: tmp/usa/./contact.php:41 tmp/usa/./template-contact.php:43
+msgid "Subject"
+msgstr "Subject"
+
+#: tmp/usa/./contact.php:41 tmp/usa/./contact.php:43
+#: tmp/usa/./item-contact.php:52 tmp/usa/./item.php:228
+#: tmp/usa/./template-contact.php:43 tmp/usa/./template-contact.php:45
+#: tmp/usa/./user-public-profile.php:124
+msgid "optional"
+msgstr "optional"
+
+#: tmp/usa/./contact.php:42 tmp/usa/./item-contact.php:53
+#: tmp/usa/./item-send-friend.php:52 tmp/usa/./item.php:233
+#: tmp/usa/./template-contact.php:44 tmp/usa/./user-public-profile.php:125
+msgid "Message"
+msgstr "Message"
+
+#: tmp/usa/./contact.php:43 tmp/usa/./item-contact.php:49
+#: tmp/usa/./item-send-friend.php:47 tmp/usa/./item.php:163
+#: tmp/usa/./item.php:226 tmp/usa/./template-contact.php:45
+#: tmp/usa/./user-public-profile.php:122
+msgid "Your name"
+msgstr "Your name"
+
+#: tmp/usa/./contact.php:44 tmp/usa/./item-contact.php:50
+#: tmp/usa/./item-send-friend.php:48 tmp/usa/./item.php:227
+#: tmp/usa/./template-contact.php:46 tmp/usa/./user-public-profile.php:123
+msgid "Your e-mail address"
+msgstr "Your e-mail address"
+
+#: tmp/usa/./contact.php:47 tmp/usa/./item-send-friend.php:55
+#: tmp/usa/./item.php:168 tmp/usa/./item.php:253
+#: tmp/usa/./template-contact.php:48 tmp/usa/./user-public-profile.php:142
+msgid "Send"
+msgstr "Send"
+
+#: tmp/usa/./footer.php:28
+msgid "Contact"
+msgstr "Contact"
+
+#: tmp/usa/./footer.php:35
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+
+#: tmp/usa/./footer.php:48
+msgid "Your search must be at least three characters long"
+msgstr "Your search must be at least three characters long"
+
+#: tmp/usa/./functions.php:55
+msgid "Theme settings updated correctly"
+msgstr "Theme settings updated correctly"
+
+#: tmp/usa/./functions.php:62
+msgid "The logo image has been uploaded correctly"
+msgstr "The logo image has been uploaded correctly"
+
+#: tmp/usa/./functions.php:64 tmp/usa/./functions.php:67
+msgid "An error has occurred, please try again"
+msgstr "An error has occurred, please try again"
+
+#: tmp/usa/./functions.php:74
+msgid "The logo image has been removed"
+msgstr "The logo image has been removed"
+
+#: tmp/usa/./functions.php:76
+msgid "Image not found"
+msgstr "Image not found"
+
+#: tmp/usa/./functions.php:99
+msgid "ie. PHP Programmer"
+msgstr "ie. PHP Programmer"
+
+#: tmp/usa/./head.php:41
+msgid "No file selected"
+msgstr "No file selected"
+
+#: tmp/usa/./head.php:42
+msgid "Choose File"
+msgstr "Choose File"
+
+#: tmp/usa/./header.php:34
+#, php-format
+msgid "Hi %s"
+msgstr "Hi %s"
+
+#: tmp/usa/./header.php:35
+msgid "My account"
+msgstr "My account"
+
+#: tmp/usa/./header.php:36
+msgid "Logout"
+msgstr "Logout"
+
+#: tmp/usa/./header.php:40 tmp/usa/./item.php:206
+msgid "Login"
+msgstr "Login"
+
+#: tmp/usa/./header.php:43 tmp/usa/./item.php:207 tmp/usa/./user-login.php:43
+msgid "Register for a free account"
+msgstr "Register for a free account"
+
+#: tmp/usa/./header.php:49 tmp/usa/./item-post.php:173 tmp/usa/./item.php:216
+#: tmp/usa/./user-login.php:38 tmp/usa/./user-profile.php:83
+#: tmp/usa/./user-recover.php:38 tmp/usa/./user-register.php:49
+msgid "E-mail"
+msgstr "E-mail"
+
+#: tmp/usa/./header.php:51 tmp/usa/./user-login.php:39
+#: tmp/usa/./user-register.php:44
+msgid "Password"
+msgstr "Password"
+
+#: tmp/usa/./header.php:53 tmp/usa/./user-login.php:40
+msgid "Remember me"
+msgstr "Remember me"
+
+#: tmp/usa/./header.php:54 tmp/usa/./user-login.php:41
+msgid "Log in"
+msgstr "Log in"
+
+#: tmp/usa/./header.php:56 tmp/usa/./user-login.php:43
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: tmp/usa/./header.php:66
+msgid "Language"
+msgstr "Language"
+
+#: tmp/usa/./header.php:79
+msgid "Publish your ad for free"
+msgstr "Publish your ad for free"
+
+#: tmp/usa/./inc.functions.php:8 tmp/usa/./inc.functions.php:16
+msgid "Map settings"
+msgstr "Map settings"
+
+#: tmp/usa/./inc.functions.php:12
+msgid "Brasil theme"
+msgstr "Brasil theme"
+
+#: tmp/usa/./inc.functions.php:30
+msgid "Region saved correctly"
+msgstr "Region saved correctly"
+
+#: tmp/usa/./inc.functions.php:83
+#, php-format
+msgid ""
+"Wait! There are unassigned map areas in the map. <a href=\"%s\">Click here</"
+"a> to assign regions to the map."
+msgstr ""
+"Wait! There are unassigned map areas in the map. <a href=\"%s\">Click here</"
+"a> to assign regions to the map."
+
+#: tmp/usa/./inc.search.php:54 tmp/usa/./item-edit.php:118
+#: tmp/usa/./item-post.php:116
+msgid "Select a category"
+msgstr "Select a category"
+
+#: tmp/usa/./inc.search.php:56
+msgid "Search"
+msgstr "Search"
+
+#: tmp/usa/./item-contact.php:35 tmp/usa/./item.php:111
+msgid "Contact seller"
+msgstr "Contact seller"
+
+#: tmp/usa/./item-contact.php:43
+msgid "To (seller)"
+msgstr "To (seller)"
+
+#: tmp/usa/./item-contact.php:44 tmp/usa/./item-send-friend.php:42
+msgid "Listing"
+msgstr "Listing"
+
+#: tmp/usa/./item-contact.php:52 tmp/usa/./item.php:228
+#: tmp/usa/./user-public-profile.php:124
+msgid "Phone number"
+msgstr "Phone number"
+
+#: tmp/usa/./item-contact.php:55
+msgid "Send message"
+msgstr "Send message"
+
+#: tmp/usa/./item-edit.php:106
+msgid "Update your listing"
+msgstr "Update your listing"
+
+#: tmp/usa/./item-edit.php:115 tmp/usa/./item-post.php:113
+msgid "General Information"
+msgstr "General Information"
+
+#: tmp/usa/./item-edit.php:117 tmp/usa/./item-post.php:115
+#: tmp/usa/./search.php:278
+msgid "Category"
+msgstr "Category"
+
+#: tmp/usa/./item-edit.php:125 tmp/usa/./item-post.php:124
+#: tmp/usa/./search.php:268 tmp/usa/./user-alerts.php:50
+#: tmp/usa/./user-dashboard.php:50 tmp/usa/./user-items.php:53
+msgid "Price"
+msgstr "Price"
+
+#: tmp/usa/./item-edit.php:133 tmp/usa/./item-post.php:131
+msgid "Photos"
+msgstr "Photos"
+
+#: tmp/usa/./item-edit.php:142 tmp/usa/./item-post.php:137
+msgid "Add new photo"
+msgstr "Add new photo"
+
+#: tmp/usa/./item-edit.php:147 tmp/usa/./main.php:95 tmp/usa/./search.php:246
+#: tmp/usa/./user-public-profile.php:69
+msgid "Location"
+msgstr "Location"
+
+#: tmp/usa/./item-edit.php:149 tmp/usa/./item-post.php:144
+#: tmp/usa/./item.php:84 tmp/usa/./user-profile.php:102
+msgid "Country"
+msgstr "Country"
+
+#: tmp/usa/./item-edit.php:153 tmp/usa/./item-post.php:148
+#: tmp/usa/./item.php:85 tmp/usa/./user-profile.php:106
+msgid "Region"
+msgstr "Region"
+
+#: tmp/usa/./item-edit.php:157 tmp/usa/./item-post.php:152
+#: tmp/usa/./item.php:86 tmp/usa/./search.php:248
+#: tmp/usa/./user-profile.php:110
+msgid "City"
+msgstr "City"
+
+#: tmp/usa/./item-edit.php:161 tmp/usa/./item.php:87
+#: tmp/usa/./user-profile.php:114
+msgid "City area"
+msgstr "City area"
+
+#: tmp/usa/./item-edit.php:165 tmp/usa/./item-post.php:160
+#: tmp/usa/./item.php:88 tmp/usa/./user-profile.php:118
+#: tmp/usa/./user-public-profile.php:68
+msgid "Address"
+msgstr "Address"
+
+#: tmp/usa/./item-edit.php:177 tmp/usa/./user-change_email.php:83
+#: tmp/usa/./user-change_password.php:57
+#: tmp/usa/./user-change_username.php:104 tmp/usa/./user-profile.php:129
+msgid "Update"
+msgstr "Update"
+
+#: tmp/usa/./item-edit.php:178 tmp/usa/./user-profile.php:58
+msgid "Cancel"
+msgstr "Cancel"
+
+#: tmp/usa/./item-post.php:106
+msgid "Publish a listing"
+msgstr "Publish a listing"
+
+#: tmp/usa/./item-post.php:142
+msgid "Listing Location"
+msgstr "Listing Location"
+
+#: tmp/usa/./item-post.php:156
+msgid "City Area"
+msgstr "City Area"
+
+#: tmp/usa/./item-post.php:167
+msgid "Seller's information"
+msgstr "Seller's information"
+
+#: tmp/usa/./item-post.php:169 tmp/usa/./item.php:211 tmp/usa/./item.php:213
+#: tmp/usa/./user-profile.php:70 tmp/usa/./user-register.php:43
+msgid "Name"
+msgstr "Name"
+
+#: tmp/usa/./item-post.php:180
+msgid "Show e-mail on the listing page"
+msgstr "Show e-mail on the listing page"
+
+#: tmp/usa/./item-post.php:193
+msgid "Publish"
+msgstr "Publish"
+
+#: tmp/usa/./item-send-friend.php:35
+msgid "Send to a friend"
+msgstr "Send to a friend"
+
+#: tmp/usa/./item-send-friend.php:50
+msgid "Your friend's name"
+msgstr "Your friend's name"
+
+#: tmp/usa/./item-send-friend.php:51
+msgid "Your friend's e-mail address"
+msgstr "Your friend's e-mail address"
+
+#: tmp/usa/./item.php:60
+msgid "Edit item"
+msgstr "Edit item"
+
+#: tmp/usa/./item.php:65
+msgid "Mark as"
+msgstr "Mark as"
+
+#: tmp/usa/./item.php:67
+msgid "spam"
+msgstr "spam"
+
+#: tmp/usa/./item.php:68
+msgid "misclassified"
+msgstr "misclassified"
+
+#: tmp/usa/./item.php:69
+msgid "duplicated"
+msgstr "duplicated"
+
+#: tmp/usa/./item.php:70
+msgid "expired"
+msgstr "expired"
+
+#: tmp/usa/./item.php:71
+msgid "offensive"
+msgstr "offensive"
+
+#: tmp/usa/./item.php:80
+msgid "Published date"
+msgstr "Published date"
+
+#: tmp/usa/./item.php:81
+msgid "Modified date"
+msgstr "Modified date"
+
+#: tmp/usa/./item.php:115
+msgid "Share"
+msgstr "Share"
+
+#: tmp/usa/./item.php:121
+msgid "Useful information"
+msgstr "Useful information"
+
+#: tmp/usa/./item.php:123
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Avoid scams by acting locally or paying with PayPal"
+
+#: tmp/usa/./item.php:124
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+
+#: tmp/usa/./item.php:125
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+
+#: tmp/usa/./item.php:126
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+
+#: tmp/usa/./item.php:132
+msgid "Comments"
+msgstr "Comments"
+
+#: tmp/usa/./item.php:139
+msgid "by"
+msgstr "by"
+
+#: tmp/usa/./item.php:143
+msgid "Delete your comment"
+msgstr "Delete your comment"
+
+#: tmp/usa/./item.php:143 tmp/usa/./user-items.php:58
+#: tmp/usa/./user-profile.php:55
+msgid "Delete"
+msgstr "Delete"
+
+#: tmp/usa/./item.php:155
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Leave your comment (spam and offensive messages will be removed)"
+
+#: tmp/usa/./item.php:164
+msgid "Your e-mail"
+msgstr "Your e-mail"
+
+#: tmp/usa/./item.php:166
+msgid "Title"
+msgstr "Title"
+
+#: tmp/usa/./item.php:167
+msgid "Comment"
+msgstr "Comment"
+
+#: tmp/usa/./item.php:180
+msgid "Image"
+msgstr "Image"
+
+#: tmp/usa/./item.php:192 tmp/usa/./user-public-profile.php:113
+msgid "Contact publisher"
+msgstr "Contact publisher"
+
+#: tmp/usa/./item.php:195
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "The listing is expired. You can't contact the publisher."
+
+#: tmp/usa/./item.php:199
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "It's your own listing, you can't contact the publisher."
+
+#: tmp/usa/./item.php:203
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"You must log in or register a new account in order to contact the advertiser"
+
+#: tmp/usa/./item.php:219
+msgid "Tel"
+msgstr "Tel"
+
+#: tmp/usa/./item.php:230
+msgid "Attachments"
+msgstr "Attachments"
+
+#: tmp/usa/./item.php:247 tmp/usa/./user-public-profile.php:136
+msgid "Enter the words above"
+msgstr "Enter the words above"
+
+#: tmp/usa/./item.php:249 tmp/usa/./user-public-profile.php:138
+msgid "Help"
+msgstr "Help"
+
+#: tmp/usa/./main.php:54
+msgid "Latest Listings"
+msgstr "Latest Listings"
+
+#: tmp/usa/./main.php:56
+msgid "No Latest Listings"
+msgstr "No Latest Listings"
+
+#: tmp/usa/./main.php:86
+msgid "See all offers"
+msgstr "See all offers"
+
+#: tmp/usa/./search.php:194
+msgid "Sort by"
+msgstr "Sort by"
+
+#: tmp/usa/./search.php:213
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "There are no results matching \"%s\""
+
+#: tmp/usa/./search.php:241
+msgid "Your search"
+msgstr "Your search"
+
+#: tmp/usa/./search.php:256
+msgid "Show only"
+msgstr "Show only"
+
+#: tmp/usa/./search.php:261
+msgid "Show only listings with pictures"
+msgstr "Show only listings with pictures"
+
+#: tmp/usa/./search.php:269
+msgid "Min"
+msgstr "Min"
+
+#: tmp/usa/./search.php:271
+msgid "Max"
+msgstr "Max"
+
+#: tmp/usa/./search.php:308
+msgid "Apply"
+msgstr "Apply"
+
+#: tmp/usa/./search.php:326
+msgid "Selected"
+msgstr "Selected"
+
+#: tmp/usa/./search.php:327
+msgid "Nothing selected, input was"
+msgstr "Nothing selected, input was"
+
+#: tmp/usa/./search_gallery.php:41 tmp/usa/./search_list.php:41
+msgid "Sponsored ad"
+msgstr "Sponsored ad"
+
+#: tmp/usa/./user-alerts.php:32 tmp/usa/./user-change_email.php:62
+#: tmp/usa/./user-change_password.php:33 tmp/usa/./user-change_username.php:82
+#: tmp/usa/./user-dashboard.php:33 tmp/usa/./user-items.php:33
+#: tmp/usa/./user-profile.php:37
+msgid "User account manager"
+msgstr "User account manager"
+
+#: tmp/usa/./user-alerts.php:37
+msgid "Your alerts"
+msgstr "Your alerts"
+
+#: tmp/usa/./user-alerts.php:39
+msgid "You do not have any alerts yet"
+msgstr "You do not have any alerts yet"
+
+#: tmp/usa/./user-alerts.php:43
+msgid "Alert"
+msgstr "Alert"
+
+#: tmp/usa/./user-alerts.php:43
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "This action can't be undone. Are you sure you want to continue?"
+
+#: tmp/usa/./user-alerts.php:43
+msgid "Delete this alert"
+msgstr "Delete this alert"
+
+#: tmp/usa/./user-alerts.php:49 tmp/usa/./user-dashboard.php:49
+#: tmp/usa/./user-items.php:52
+msgid "Publication date"
+msgstr "Publication date"
+
+#: tmp/usa/./user-alerts.php:57
+msgid "Listings"
+msgstr "Listings"
+
+#: tmp/usa/./user-change_email.php:68
+msgid "Change your e-mail"
+msgstr "Change your e-mail"
+
+#: tmp/usa/./user-change_email.php:75
+msgid "Current e-mail"
+msgstr "Current e-mail"
+
+#: tmp/usa/./user-change_email.php:79
+msgid "New e-mail"
+msgstr "New e-mail"
+
+#: tmp/usa/./user-change_password.php:39
+msgid "Change your password"
+msgstr "Change your password"
+
+#: tmp/usa/./user-change_password.php:45
+msgid "Current password"
+msgstr "Current password"
+
+#: tmp/usa/./user-change_password.php:49 tmp/usa/./user-forgot_password.php:41
+msgid "New password"
+msgstr "New password"
+
+#: tmp/usa/./user-change_password.php:53 tmp/usa/./user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "Repeat new password"
+
+#: tmp/usa/./user-change_username.php:40
+msgid "Username: this field is required"
+msgstr "Username: this field is required"
+
+#: tmp/usa/./user-change_username.php:65
+msgid "The username is available"
+msgstr "The username is available"
+
+#: tmp/usa/./user-change_username.php:67
+msgid "The username is NOT available"
+msgstr "The username is NOT available"
+
+#: tmp/usa/./user-change_username.php:88
+msgid "Change your username"
+msgstr "Change your username"
+
+#: tmp/usa/./user-change_username.php:95 tmp/usa/./user-profile.php:74
+msgid "Username"
+msgstr "Username"
+
+#: tmp/usa/./user-change_username.php:99
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+
+#: tmp/usa/./user-dashboard.php:39
+#, php-format
+msgid "Listings from %s"
+msgstr "Listings from %s"
+
+#: tmp/usa/./user-dashboard.php:41
+msgid "No listings have been added yet"
+msgstr "No listings have been added yet"
+
+#: tmp/usa/./user-dashboard.php:52
+msgid "View listing"
+msgstr "View listing"
+
+#: tmp/usa/./user-dashboard.php:54 tmp/usa/./user-items.php:56
+msgid "Edit"
+msgstr "Edit"
+
+#: tmp/usa/./user-dashboard.php:57 tmp/usa/./user-items.php:61
+msgid "Activate"
+msgstr "Activate"
+
+#: tmp/usa/./user-forgot_password.php:33 tmp/usa/./user-recover.php:33
+msgid "Recover your password"
+msgstr "Recover your password"
+
+#: tmp/usa/./user-forgot_password.php:48
+msgid "Change password"
+msgstr "Change password"
+
+#: tmp/usa/./user-items.php:39
+msgid "Your listings"
+msgstr "Your listings"
+
+#: tmp/usa/./user-items.php:39
+msgid "Post a new listing"
+msgstr "Post a new listing"
+
+#: tmp/usa/./user-items.php:41
+msgid "You don't have any listings yet"
+msgstr "You don't have any listings yet"
+
+#: tmp/usa/./user-items.php:47
+msgid "Active"
+msgstr "Active"
+
+#: tmp/usa/./user-items.php:47
+msgid "Inactive"
+msgstr "Inactive"
+
+#: tmp/usa/./user-items.php:48
+msgid "Premium"
+msgstr "Premium"
+
+#: tmp/usa/./user-items.php:49
+msgid "Spam"
+msgstr "Spam"
+
+#: tmp/usa/./user-items.php:58
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "This action can not be undone. Are you sure you want to continue?"
+
+#: tmp/usa/./user-login.php:33
+msgid "Access to your account"
+msgstr "Access to your account"
+
+#: tmp/usa/./user-profile.php:43
+msgid "Update your profile"
+msgstr "Update your profile"
+
+#: tmp/usa/./user-profile.php:78
+msgid "Modify username"
+msgstr "Modify username"
+
+#: tmp/usa/./user-profile.php:86
+msgid "Modify e-mail"
+msgstr "Modify e-mail"
+
+#: tmp/usa/./user-profile.php:86
+msgid "Modify password"
+msgstr "Modify password"
+
+#: tmp/usa/./user-profile.php:90
+msgid "User type"
+msgstr "User type"
+
+#: tmp/usa/./user-profile.php:94
+msgid "Cell phone"
+msgstr "Cell phone"
+
+#: tmp/usa/./user-profile.php:98
+msgid "Phone"
+msgstr "Phone"
+
+#: tmp/usa/./user-profile.php:122 tmp/usa/./user-public-profile.php:70
+msgid "Website"
+msgstr "Website"
+
+#: tmp/usa/./user-profile.php:130
+msgid "Delete my account"
+msgstr "Delete my account"
+
+#: tmp/usa/./user-profile.php:137
+msgid "Delete account"
+msgstr "Delete account"
+
+#: tmp/usa/./user-profile.php:140
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"All your listings and alerts will be removed, this action can not be undone."
+
+#: tmp/usa/./user-public-profile.php:59
+#, php-format
+msgid "%s's profile"
+msgstr "%s's profile"
+
+#: tmp/usa/./user-public-profile.php:65
+msgid "Profile"
+msgstr "Profile"
+
+#: tmp/usa/./user-public-profile.php:67
+msgid "Full name"
+msgstr "Full name"
+
+#: tmp/usa/./user-public-profile.php:71
+msgid "User Description"
+msgstr "User Description"
+
+#: tmp/usa/./user-public-profile.php:75
+msgid "Latest listings"
+msgstr "Latest listings"
+
+#: tmp/usa/./user-recover.php:40
+msgid "Send me a new password"
+msgstr "Send me a new password"
+
+#: tmp/usa/./user-register.php:36
+msgid "Register an account for free"
+msgstr "Register an account for free"
+
+#: tmp/usa/./user-register.php:45
+msgid "Re-type password"
+msgstr "Re-type password"
+
+#: tmp/usa/./user-register.php:47
+msgid "Passwords don't match"
+msgstr "Passwords don't match"
+
+#: tmp/usa/./user-register.php:52
+msgid "Create"
+msgstr "Create"
