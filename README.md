@@ -5,5 +5,5 @@ of Vietnamese people .
 
 =========
 Contributors :
-1. Steve Vu (founder)
+1. Steve Vu (founder)<br/>
 2. Binh Nguyen (co-founder)
